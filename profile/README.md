@@ -2,8 +2,7 @@
 
 Benvenuto · Benvenuta · Benvenutu nella landing del corso di **Creative Coding**.
 
-Il corso è un percorso pratico e sperimentale che attraversa
-no-code, web, generative art, suono, fisica, 3D, hacking e p5.js.
+Il corso è un percorso pratico e sperimentale che attraversa web, generative art, suono, 3D, hacking e p5.js.
 
 ---
 

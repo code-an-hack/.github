@@ -1,5 +1,3 @@
-# .github
-
 # Creative Coding — Corso
 
 Benvenuto · Benvenuta · Benvenutu nella landing del corso di **Creative Coding**.

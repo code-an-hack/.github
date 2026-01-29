@@ -50,14 +50,14 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
 
 - **p5 Fisica**  
   Collisioni, gravità e sistemi dinamici.  
-  Demo: https://github.com/code-an-hack/IED1THC-07-P5_Physics
+  Demo: https://code-an-hack.github.io/IED1THC-07-P5_Physics
 
 - **p5 3D**  
   Spazio tridimensionale e sculture procedurali.
 
 - **p5 Simulazioni**  
   Fenomeni naturali e sistemi complessi.  
-  Demo: https://github.com/code-an-hack/IED1THC-09-P5_Simulations/tree/main
+  Demo: https://code-an-hack.github.io/IED1THC-09-P5_Simulations
 
 - **p5 Advanced Input**  
   Suono, onde e gesture interaction.

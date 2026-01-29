@@ -12,7 +12,7 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
   Introduzione al corso, strumenti, IA, modalità di lavoro ed esame.
 
 - **Basic Web Dev 1**  
-  HTML, CSS, JS. Prime pagine web e dev tools.
+  HTML, CSS, JS. Prime pagine web e dev tools.  
   Demo: https://code-an-hack.github.io/IED1THC-01-Basic_Web_Dev_1/
 
 - **Web Hacking**  
@@ -28,35 +28,35 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
   Hacking e uso improprio degli strumenti. Corruzione manuale di PNG.
 
 - **Basic Web Dev 2**
-  Git, GitHub e pubblicazione online.
+  Git, GitHub e pubblicazione online.  
   Demo: https://code-an-hack.github.io/IED1THC-03-Basic_Web_Dev_2/
 
 - **JS Input / Output**  
-  Eventi e suono: pianoforte virtuale.
+  Eventi e suono: pianoforte virtuale.  
   Demo: https://code-an-hack.github.io/IED1THC-04-JS_Input_Output/
 
 - **p5.js Intro***  
-  Drawing, pattern e strumenti creativi.
-  Demo 1: https://code-an-hack.github.io/IED1THC-05-p5_Intro_Collage_Generator/
+  Drawing, pattern e strumenti creativi.  
+  Demo 1: https://code-an-hack.github.io/IED1THC-05-p5_Intro_Collage_Generator/  
   Demo 2: https://code-an-hack.github.io/IED1THC-05-p5_Intro_Custom_Drawing_Tool/
 
 - **p5 World Generator**
-  Noise e generazione di mondi 2D.
-  Demo: https://code-an-hack.github.io/IED1THC-05-p5_World_Generator/
+  Noise e generazione di mondi 2D.  
+  Demo: https://code-an-hack.github.io/IED1THC-05-p5_World_Generator/  
   Esempi noise: https://code-an-hack.github.io/IED1THC-05-p5_Noise_Example/
 
 - **p5 Sensori**  
   Webcam e microfono come input.
 
 - **p5 Fisica**  
-  Collisioni, gravità e sistemi dinamici.
+  Collisioni, gravità e sistemi dinamici.  
   Demo: https://github.com/code-an-hack/IED1THC-07-P5_Physics
 
 - **p5 3D**  
   Spazio tridimensionale e sculture procedurali.
 
 - **p5 Simulazioni**  
-  Fenomeni naturali e sistemi complessi.
+  Fenomeni naturali e sistemi complessi.  
   Demo: https://github.com/code-an-hack/IED1THC-09-P5_Simulations/tree/main
 
 - **p5 Advanced Input**  

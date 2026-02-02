@@ -46,7 +46,7 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
   Esempi noise: https://code-an-hack.github.io/IED1THC-05-p5_Noise_Example/
 
 - **p5 Sensori**  
-  Webcam e microfono come input.
+  Webcam e microfono come input.  
   Demo: https://code-an-hack.github.io/IED1THC-05-P5_Sensors/
   
 - **p5 Fisica**  

@@ -54,7 +54,7 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
   Demo: https://code-an-hack.github.io/IED1THC-07-P5_Physics
 
 - **p5 3D**  
-  Spazio tridimensionale e sculture procedurali.
+  Spazio tridimensionale e sculture procedurali.  
   Demo: https://code-an-hack.github.io/IED1THC-08-P5_3D/
 
 - **p5 Simulazioni**  

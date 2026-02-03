@@ -47,7 +47,7 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
 
 - **p5 Sensori**  
   Webcam e microfono come input.  
-  Demo: https://code-an-hack.github.io/IED1THC-05-P5_Sensors/
+  Demo: https://code-an-hack.github.io/IED1THC-06-P5_Sensors/
   
 - **p5 Fisica**  
   Collisioni, gravità e sistemi dinamici.  

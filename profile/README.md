@@ -33,7 +33,7 @@ Il corso è un percorso pratico e sperimentale che attraversa web, generative ar
 
 - **JS Input / Output**  
   Eventi e suono: pianoforte virtuale.  
-  Demo: https://code-an-hack.github.io/IED1THC-04-JS_Input_Output/
+  Demo: https://code-an-hack.github.io/IED1THC-04-JS_Input_Output_STEPS/
 
 - **p5.js Intro***  
   Drawing, pattern e strumenti creativi.  
